@@ -1,4 +1,4 @@
-import "./css/app.css";
+import "./css/App.css";
 import { BrowserRouter, Routes, Route } from "react-router";
 import BalancePage from "./pages/BalancePage";
 import Dashboard from "./components/Dashboard";
