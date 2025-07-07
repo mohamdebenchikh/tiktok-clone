@@ -141,7 +141,7 @@ body {
 /* Balance Card */
 .balance-card {
   margin: 20px 20px 30px;
-  background-image: url("./images/icons/balance_banner.png");
+  background-image: url("./images/balance_banner.png");
   background-size: cover;
   border-radius: 10px;
   padding: 18px;
